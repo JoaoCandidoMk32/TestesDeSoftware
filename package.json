@@ -1,0 +1,22 @@
+{
+  "name": "testesdesoftware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoCandidoMk32/TestesDeSoftware.git"
+  },
+  "author": "Joao Carlos Candido da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoCandidoMk32/TestesDeSoftware/issues"
+  },
+  "homepage": "https://github.com/JoaoCandidoMk32/TestesDeSoftware#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
